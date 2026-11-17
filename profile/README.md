@@ -4,7 +4,8 @@
 
 🌐 **Live Portfolio:** [https://sakib-hosen-dev.github.io/](https://sakib-hosen-dev.github.io/)  
 🧪 **Interactive Case Studies:** [https://sakib-hosen-dev.github.io/case-studies.html](https://sakib-hosen-dev.github.io/case-studies.html)  
-💼 **LinkedIn:** [linkedin.com/in/zero-sakib](https://www.linkedin.com/in/zero-sakib/) • **Personal GitHub:** [@Md-Sakib-Hosen](https://github.com/Md-Sakib-Hosen)
+💼 **LinkedIn:** [linkedin.com/in/zero-sakib](https://www.linkedin.com/in/zero-sakib/) 
+• **Personal GitHub:** [@Md-Sakib-Hosen](https://github.com/Md-Sakib-Hosen)
 
 ### Core Focus Areas
 - **Routing & ISP Infrastructure:** MikroTik RouterOS v7 (BGP, OSPF, PPPoE, 802.1Q VLANs, PCQ) and nationwide FTTH SLA resolution (**Earth Telecommunication**, **SSD Tech**, **Dotlines**, **Carnival Internet**).
